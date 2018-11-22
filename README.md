@@ -15,3 +15,11 @@ Framework Used: **RestSharp**
 ----
 
 **Extent-Reports** dll  has been used for logging.
+
+
+### ExtentReports:
+![Screen1](screenshots/first.jpg)
+
+----
+
+![screen2](screenshots/second.jpg)
