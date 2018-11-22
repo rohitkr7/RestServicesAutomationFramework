@@ -18,8 +18,8 @@ Framework Used: **RestSharp**
 
 
 ### ExtentReports:
-![Screen1](screenshots/first.jpg)
+![Screen1](screenshots/first.JPG)
 
 ----
 
-![screen2](screenshots/second.jpg)
+![screen2](screenshots/second.JPG)
