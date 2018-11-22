@@ -1,0 +1,6 @@
+**------------------------** TC002_WeatherTest_Location_Hyderabad **--------------------------**
+Logging Date: 09-Nov-18 2:13:56 AM
+
+<09-Nov-18 2:13:56 AM>: OK
+<09-Nov-18 2:13:56 AM>: {"coord":{"lon":78.47,"lat":17.36},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03n"}],"base":"stations","main":{"temp":294.15,"pressure":1015,"humidity":94,"temp_min":294.15,"temp_max":294.15},"visibility":6000,"wind":{"speed":2.1,"deg":120},"clouds":{"all":40},"dt":1541707200,"sys":{"type":1,"id":7830,"message":0.0106,"country":"IN","sunrise":1541638066,"sunset":1541679106},"id":1269843,"name":"Hyderabad","cod":200}
+2018-11-09 02:13:56.0 [INFO]    Location from the json Response: Hyderabad

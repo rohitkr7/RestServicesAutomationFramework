@@ -1,0 +1,6 @@
+**------------------------** TC001_WeatherTest_Location_NewYork **--------------------------**
+Logging Date: 09-Nov-18 2:13:51 AM
+
+<09-Nov-18 2:13:51 AM>: OK
+<09-Nov-18 2:13:51 AM>: {"coord":{"lon":-73.99,"lat":40.73},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"base":"stations","main":{"temp":286.33,"pressure":1024,"humidity":38,"temp_min":285.35,"temp_max":287.05},"visibility":16093,"wind":{"speed":2.1,"deg":310},"clouds":{"all":1},"dt":1541708100,"sys":{"type":1,"id":1969,"message":0.0029,"country":"US","sunrise":1541676932,"sunset":1541713409},"id":5128581,"name":"New York","cod":200}
+2018-11-09 02:13:51.6 [INFO]    Location from the json Response: New York

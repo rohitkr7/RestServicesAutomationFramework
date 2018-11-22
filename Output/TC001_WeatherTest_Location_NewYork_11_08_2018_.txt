@@ -1,0 +1,5 @@
+**------------------------** TC001_WeatherTest_Location_NewYork **--------------------------**
+Logging Date: 08-Nov-18 11:47:28 PM
+
+<08-Nov-18 11:47:28 PM>: OK
+<08-Nov-18 11:47:29 PM>: {"coord":{"lon":-73.99,"lat":40.73},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"base":"stations","main":{"temp":284.97,"pressure":1024,"humidity":40,"temp_min":284.25,"temp_max":285.65},"visibility":16093,"wind":{"speed":3.1,"deg":320},"clouds":{"all":1},"dt":1541699700,"sys":{"type":1,"id":1969,"message":0.003,"country":"US","sunrise":1541676924,"sunset":1541713415},"id":5128581,"name":"New York","cod":200}
