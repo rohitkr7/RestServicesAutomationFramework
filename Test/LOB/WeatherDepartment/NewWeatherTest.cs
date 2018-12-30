@@ -41,7 +41,7 @@ namespace RestServicesAutomationFramework.Test.LOB.WeatherDepartment
         public void New_WeatherAPI_Tests(string testCaseID)
         {
             Setup(testCaseID);
-            string api_parameter = data.Parameters.Replace("#", data.StrDataItem1).Replace("$", data.API_KEY);
+            string api_parameter = data.Parameters.Replace("#", data.StrDataItem1).Replace("$", data.API_KEY);  
             string weatherApiJsonResponse = GenericHttpOperation_OAuth(testCaseID, data.API_EndPointURL, data.HeaderSet, api_parameter, RestSharp.Method.GET, "", "");
             string statusCode = getResponseStatus().ToString();
             Console.WriteLine(statusCode);
